@@ -1,5 +1,4 @@
-# Soohyeon won
-<h3>iOS Developer</h3>
+<h3>Hi im soohyeon won - iOS Developer</h3>
 <div align=center> 
     <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
