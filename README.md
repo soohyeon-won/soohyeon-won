@@ -1,6 +1,6 @@
 <h3>Hi im soohyeon won - iOS Developer</h3>
 <div align=center> 
-    <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+    <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white" />
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
