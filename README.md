@@ -4,10 +4,8 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=flat&logo=CreateReactApp&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/Fastlane-009688?style=flat&logo=Fastlane&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
