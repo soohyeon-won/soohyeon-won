@@ -1,8 +1,9 @@
-### Hello there! I’m iOS Developer soohyeon-won.
+## 👋 Hello there! 
+I’m iOS Developer soohyeon-won.
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<div align=center> 
+<div> 
     <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -15,7 +16,7 @@
 </div>
 
 
-# 📚My blog
+## 📚My blog
 
 * Naver blog [[here]](https://blog.naver.com/shhh1528) (~2022.08.20)
 * velog [[here]](https://velog.io/@soohyeon-won) (-ing)
