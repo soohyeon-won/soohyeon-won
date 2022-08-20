@@ -1,7 +1,9 @@
-## 👋 Hello there! 
+<div align="center">
+
+## 👋 Hello there 👋
 I’m iOS Developer soohyeon-won.
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 <div> 
     <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white" />
@@ -15,8 +17,10 @@ I’m iOS Developer soohyeon-won.
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 </div>
 
+## 📚 My blog 
 
-## 📚My blog
+Naver blog [[here]](https://blog.naver.com/shhh1528) (~2022.08.20)
 
-* Naver blog [[here]](https://blog.naver.com/shhh1528) (~2022.08.20)
-* velog [[here]](https://velog.io/@soohyeon-won) (-ing)
+velog [[here]](https://velog.io/@soohyeon-won) (-ing)
+
+</div>
